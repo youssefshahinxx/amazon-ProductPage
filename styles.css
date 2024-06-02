@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.title {
+    font-weight: lighter;
+    font-size: 48px;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 480px;
+}
+
+.image {
+    margin: 20px;
+    color: #565959;
+
+}
+
+
+.container {
+    display: flex;
+    
+}
+
+.text {
+    margin-top: 0px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.description {
+    font-size: 20px;
+}
